@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 
 public class Aula02TiposPrimitivos {
-    static void main(String[] args) {
+   public static void main(String[] args) {
         //int, double, float, char, byte, short, long, boolean
         int age = (int) 1000000000L;
         long bigNumber = (long) 155.23;
